@@ -11,5 +11,7 @@ Python Version 3.6+ must be installed.
 
 Run Options: 
 You can delete certain category models in order to force the program to re train the models to gain different outputs. 
+
 You can also modify the output by deleting the old model, and then adding new texts to the text file either in the all folder or in the desired category that you wish to modify.
+
 Please note; Compile times will increase significantly upon changing and retraining the model.
